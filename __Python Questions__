@@ -1,0 +1,130 @@
+     									Python(Home)
+									____________
+
+     
+     In Python Class Practice Codes Are ----- 
+
+1.	Write a code to check the number is even or odd .
+
+2.	Write a code to check which is the greater than the three numbers .
+
+3.	Write a code to check a year wether it is a leap year or not.
+
+4.	Write a code to take a input from 1 to 7 and print consecutive day i.e, monday for 1.......
+
+5.	Write a python code to check a person is elgible for voting or not accept the age of the person from user .
+
+6.	Write a python code to display  "Hello" if a number entered by user is multiple of 5 otherwise "Bye" .
+
+7.	A shop will discount 10% , if the cost of purchase quantity is more than 1000 . Ask user for quantity , suppose ! unit will cost 1000 . --- Judge and print total cost of 	user .
+
+8.	A school has following rules for grading system 1. below 25 means F 2. 25 to 45 means E 3. 45 to 60 means D 4. 60 to 70 means C 5. 70 to 80 B 6. 80 to 90 means A 7. 90 to 100 	means O -- Ask user to enter marks and print the corosponding grade .
+
+9.	Write a Python code to print the absolute value of a number entered by user .
+
+10.	Take values of length and breath of a Rectangle form user and Check if it is a square or not .
+
+11.	Write a Python code to create a proper basic calculator -- 01. Addition , 02. Subtractioin , 03. Multiplication , 04. Division and Division in Integer & 05. Modulation . 
+	[--mine--]
+
+12.	Write a python code to increment i.
+
+13.	Write a python code to decrement i.
+
+14.	Write a python code of to a multiplication table of user input .
+
+15.	Write a python code to check a number prime or not .
+
+16.	Write a python code to print sum of 1st 10 natural numbers .
+
+17.	Write a python code to check 2 integers as input and then print the sum of all the integers in between those integers .
+
+18.	Write a python code to print all the even numbers in between a range .
+
+19.	Write a python code to check a number is palindrome or not .
+
+20.	Write a Python code to take a string as input and then count tho total number of vowels in the string and Print the output .
+
+21.	Write a python code to check a number amstrong or not .
+
+22.	Write a python code to print a factorial of a number .
+
+23.	Write a python code to print the fibonacci series .
+
+24.	Write a python code to print the sum of first 'n' Even numbers .
+
+25.	Write a python code to print the sum of first 'n' Odd numbers .	
+
+26.	Write a Python cocde to print the Pattern given below ----
+		a.	*
+			**
+			***
+			****..n
+	_______________________________________
+		b.	   *
+			  **
+			 ***
+			****..n
+	_______________________________________
+		c.	   *
+			  * *
+			 * * *
+			* * * *..n
+	_______________________________________
+		d.	****
+			***
+			**
+			*..n
+	_______________________________________
+		e.	****
+			 ***
+			  **
+			   *..n
+	_______________________________________
+		f.	* * * *
+			 * * *
+			  * *
+			   *..n
+	_______________________________________
+		g.	*
+
+			* *
+
+			* * *
+
+			* * * *
+
+			* * *
+
+			* *
+
+			*
+	_______________________________________
+		h.	1
+			12
+			123
+			1234
+			12345..n
+	_______________________________________
+		i.	1
+			23
+			456
+			78910..n
+	_______________________________________
+		j.	1
+			22
+			333..n
+	_______________________________________
+		k.	123
+			12
+			1..n
+	_______________________________________
+		l.	1
+			22
+			333..n
+	_______________________________________
+		m.	333
+			22
+			1..n
+	_______________________________________
+		n.	
